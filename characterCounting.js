@@ -12,7 +12,9 @@ function countLetters(string) {
 /// create empty object to show tally of letters
   var tally = {};
 /// want to create a for loop for each letter of the string
-
+for(var i = 0; i < properString.length; i++) {
+  console.log(properString[i]);
+}
 
 
 
